@@ -4,6 +4,6 @@ Repository changes should be focused and independently reviewable.
 Shared files should remain understandable without relying on local context.
 CBRANCH WORKFLOW
 1. Update main.
-2. Create a feature branch.
+2. Learn PUll.
 3. Commit focused changes.
 4. Open a Pull Request.ontributors should work through feature branches.
