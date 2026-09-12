@@ -1,4 +1,7 @@
-TEAM NOTES
-
-Repository changes should be focused and independently reviewable.
-Shared files should remain understandable without relying on local context.
+REVIEW GUIDELINES
+- Read the changed files.
+- Check the scope.
+- Confirm CI passes.
+- Request changes when necessary.
+- Request changes when necessary.
+- Keep unrelated changes out of the Pull Request.
