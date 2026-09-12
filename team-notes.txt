@@ -6,6 +6,13 @@ Shared files should remain understandable without relying on local context.
 
 BRANCH WORKFLOW
 1. Update main.
-2. Create a feature branch.
+2. LEARN team collaboration
 3. Commit focused changes.
 4. Open a Pull Request.
+
+
+REVIEW GUIDELINES
+- Read the changed files.
+- Check the scope.
+- Confirm CI passes.
+- Request changes when necessary.
