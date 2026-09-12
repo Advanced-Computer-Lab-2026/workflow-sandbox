@@ -4,3 +4,4 @@ REVIEW GUIDELINES
 - Confirm CI passes.
 - Request changes when necessary.
 - Request changes when necessary.
+- Keep unrelated changes out of the Pull Request.
