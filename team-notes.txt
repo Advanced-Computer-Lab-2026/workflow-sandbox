@@ -4,6 +4,6 @@ Repository changes should be focused and independently reviewable.
 Shared files should remain understandable without relying on local context.
 BRANCH WORKFLOW
 1. Update main.
-2. Create a feature branch.
+2. Learn Pull Request reviews
 3. Commit focused changes.
 4. Open a Pull Request.
