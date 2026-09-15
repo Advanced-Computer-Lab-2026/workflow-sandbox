@@ -1,6 +1,6 @@
-BRANCH WORKFLOW
+REVIEW GUIDELINES
 
-1. Update main.
-2. Create a feature branch.
-3. Commit focused changes.
-4. Open a Pull Request.
+- Read the changed files.
+- Check the scope.
+- Confirm CI passes.
+- Request changes when necessary.
