@@ -1,6 +1,6 @@
 PROJECT ROADMAP
 
-1-Establish
-2-Learn
-3-Review
-4-Keep
+1. Establish repository workflow.
+2. Learn Pull Requests reviews and team collaboration
+3. Review changes before integration.
+4. Keep project history concise.
