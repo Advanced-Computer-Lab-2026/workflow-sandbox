@@ -9,4 +9,6 @@ A minimal text-based repository for maintaining project planning, operational no
 - `AGENTS.md` — repository instructions for automated coding agents.
 - `CLAUDE.md` — repository context for Claude-based development workflows.
 
-Changes should be scoped, reviewable, and integrated through the repository's established workflow.
+Changes should be scoped, reviewable, and integrated through the repository's established workflow. 
+
+i was here
